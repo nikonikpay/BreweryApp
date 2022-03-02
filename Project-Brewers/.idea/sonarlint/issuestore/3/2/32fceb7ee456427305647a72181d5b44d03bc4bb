@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôþÿÿÿÿ
+f
+java:S1989!"PHandle the following exception that could be thrown by "getWriter": IOException.(×–·›
+]
+java:S2095/"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ò»ñö
+c
+java:S2095,"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÜŠ©˜üÿÿÿÿ
