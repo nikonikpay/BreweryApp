@@ -4,5 +4,7 @@ f	java:S128<"LEnd this switch case with an unconditional break, return or thro
 a	java:S1289"LEnd this switch case with an unconditional break, return or throw statement.(¿Äº
 \
 java:S1989G"AHandle the "ServletException" thrown here in a "try/catch" block.(¨ööŠûÿÿÿÿ
+M
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‘¥Ööô/
 f
 java:S1192T"IDefine a constant instead of duplicating this literal "brewerId" 3 times.(¾’›º8ø©¸äô/

@@ -11,7 +11,7 @@
     <title>Add Brewer Form</title>
 
     <link type="text/css" rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
-    <link type="text/css" rel="stylesheet" href="${pageContext.request.contextPath}/css/add-student-style.css">
+    <link type="text/css" rel="stylesheet" href="${pageContext.request.contextPath}/css/add-brewer-style.css">
 </head>
 <body>
 

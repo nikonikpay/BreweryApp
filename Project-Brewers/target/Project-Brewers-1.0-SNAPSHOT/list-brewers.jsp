@@ -30,8 +30,8 @@
     <div id="content">
 
 <%--                out new button add student--%>
-            <input type="button" value=" Add Student" onclick="window.location.href='add-brewer-form.jsp';return false;"
-                   class="add-student-button">
+            <input type="button" value=" Add Brewer" onclick="window.location.href='add-brewer-form.jsp';return false;"
+                   class="add-brewer-button">
 
 
         <table>
